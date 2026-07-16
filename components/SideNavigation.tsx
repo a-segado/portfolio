@@ -41,7 +41,7 @@ export function SideNavigation() {
 
         <a
           href="/resume.pdf"
-          download="Angeline_Segado_Resume.pdf"
+          download="AngelineSegado_Resume.pdf"
           className="text-left py-2 text-[1.05rem] md:text-[1.1rem] transition-colors text-[#4a1a6b] hover:text-[#7b2cbf]"
         >
           resume
